@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Arr1JTableDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Arr1JTableDemo_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Arr1JTableDemo.jar">
+        <element id="module-output" name="Arr2JTableDemo" />
+      </element>
+      <element id="library" level="project" name="com.intellij:forms_rt:7.0.3" />
+    </root>
+  </artifact>
+</component>
